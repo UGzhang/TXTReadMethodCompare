@@ -1,8 +1,11 @@
 ## A simple test for reading line in txt file
 
-IMPORTANT: Read file *line by line*!  
-TEST FILE: A txt file, size is 708.89M, contains 20956536 lines.  
-ENVIRONMENT: Apple M1 Pro with 8-core CPU, 14-core GPU, 32G and 1T ssd
+IMPORTANT:   
+&#160;&#160;&#160;&#160;Read file *line by line*!  
+TEST FILE:  
+&#160;&#160;&#160;&#160;A txt file(708.89M, 20956536 lines)  
+ENVIRONMENT:  
+&#160;&#160;&#160;&#160;Apple M1 Pro with 8 CPU, 14 GPU, 32G and 1T ssd
 
 The following methods I test and summarize:
 
